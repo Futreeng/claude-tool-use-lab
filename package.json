@@ -1,0 +1,22 @@
+{
+  "name": "claude-tool-use-lab",
+  "version": "1.0.0",
+  "description": "Hands-on lab: finish a Claude tool-use agent loop. Runs offline with a mock client.",
+  "type": "module",
+  "main": "src/agent.js",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "progress": "node scripts/progress.mjs",
+    "demo": "node src/demo.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.0"
+  },
+  "devDependencies": {
+    "vitest": "^1.0.0"
+  }
+}
