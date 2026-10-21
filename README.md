@@ -3,6 +3,8 @@
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Futreeng/claude-tool-use-lab)
 [![Tests](https://github.com/Futreeng/claude-tool-use-lab/actions/workflows/test.yml/badge.svg)](https://github.com/Futreeng/claude-tool-use-lab/actions/workflows/test.yml)
 
+(The red CI badge on this repo is expected: the starter fails on purpose.)
+
 **Estimated time:** 45 to 60 minutes · **Level:** intermediate JavaScript, new to the Claude API · **Setup:** none. Runs offline in your browser via Codespaces, with no API key.
 
 ## The scenario
